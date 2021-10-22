@@ -1,0 +1,24 @@
+.resource-tab {
+    background-color: white;
+    padding: 30px;
+    border: 1px solid;
+    border-top: 0;
+    border-color: #dee2e6;
+    border-bottom-left-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+}
+
+/* Fade-In Effect */
+.visible
+{
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 1s linear;
+}
+/* Fade-Out Effect */
+.hidden
+{
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s 1s, opacity 1s linear;
+}

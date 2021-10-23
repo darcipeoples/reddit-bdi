@@ -19,8 +19,8 @@ https://nodejs.org/en/
 
 ## Example Screenshots
 
-![Completing BDI Quiz](/screenshots/bdi-quiz.png?raw=true "Completing the BDI Questionnaire")
-
 ![Fetching Reddit Posts](/screenshots/fetch-posts.png?raw=true "Fetching User's Reddit Posts")
+
+![Completing BDI Quiz](/screenshots/bdi-quiz.png?raw=true "Completing the BDI Questionnaire")
 
 ![Viewing Resources](/screenshots/view-resources.png?raw=true "Viewing Relevant Resources")

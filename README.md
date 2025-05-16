@@ -1,5 +1,13 @@
 # reddit-bdi
 
+## Example Screenshots
+
+![Fetching Reddit Posts](/screenshots/fetch-posts.png?raw=true "Fetching User's Reddit Posts")
+
+![Completing BDI Quiz](/screenshots/bdi-quiz.png?raw=true "Completing the BDI Questionnaire")
+
+![Viewing Resources](/screenshots/view-resources.png?raw=true "Viewing Relevant Resources")
+
 ## Installation Instructions
 
 1. Install Node.js and npm
@@ -16,11 +24,3 @@ https://nodejs.org/en/
 
 5. Start the app locally
 `npm start`
-
-## Example Screenshots
-
-![Fetching Reddit Posts](/screenshots/fetch-posts.png?raw=true "Fetching User's Reddit Posts")
-
-![Completing BDI Quiz](/screenshots/bdi-quiz.png?raw=true "Completing the BDI Questionnaire")
-
-![Viewing Resources](/screenshots/view-resources.png?raw=true "Viewing Relevant Resources")
